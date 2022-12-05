@@ -1,2 +1,4 @@
 0.0.0.0 www.spiegel.de
 0.0.0.0 spiegel.de
+0.0.0.0 www.bild.de
+0.0.0.0 bild.de
